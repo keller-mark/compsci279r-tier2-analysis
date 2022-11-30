@@ -1,0 +1,7 @@
+name: tier2-env
+dependencies:
+- python==3.8
+- jupyterlab
+- numpy
+- pandas
+- altair
